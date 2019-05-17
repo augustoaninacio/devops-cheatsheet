@@ -355,3 +355,6 @@ $ sudo service uwsgi restart
 ```
 $ killall -15 mongod
 ```
+
+
+--- 
